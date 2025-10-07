@@ -1,18 +1,34 @@
-Hello, Github! 
+Hello, my name is Eric Durkee
 
-I'm Eric Durkee, a student at Brigham Young University-Idaho interested in cybersecurity and programming.
+🎓 I am a cybersecurity Student at BYU–Idaho
+💻 Programming Minor | Passionate about network security, Linux systems, and databases
+🔐 Exploring the intersection of cloud security and ethical hacking
 
-## About Me
+About Me
 
--I'm currently learning cybersecurity with a minor in programming
--My goals are to become and effective cybersecurity analyst
--Ask me about my experiences in the coding world
+🌱 Currently studying for my CompTIA Security+ certification
 
-## Technologies and Tools
+💾 Experienced with Python, C++, and SQL
 
--Proficient in: HTML,CSS,SQL,Linux
--Skills: Communication, Team work, Collaberation
+🐧 Comfortable working in Linux environments
 
+☁️ Interested in cloud architecture and cyber defense strategies
+
+🧠 Always learning something new in cybersecurity and automation
+
+Tech Stack
+
+- Languages: Python • C++ • JavaScript • SQL
+- Tools: Git • VS Code • Wireshark • Burp Suite • VirtualBox
+- OS: Linux (Ubuntu, Kali) • Windows
+
+Current Goals
+
+⚡ Strengthen my knowledge in penetration testing and network hardening
+
+☁️ Learn AWS Cloud Security
+
+💼 Build a portfolio of cybersecurity labs and projects
 ## Lets Connect!
 
 -Here is my LinkedIn ---- https://www.linkedin.com/in/eric-durkee-bb9952263/
