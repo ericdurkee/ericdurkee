@@ -10,7 +10,7 @@ I'm Eric Durkee, a student at Brigham Young University-Idaho interested in cyber
 
 ## Technologies and Tools
 
--Proficient in: C#, HTML and Python
+-Proficient in: HTML,CSS,SQL,Linux
 -Skills: Communication, Team work, Collaberation
 
 ## Lets Connect!
