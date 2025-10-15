@@ -6,7 +6,7 @@ Hello, my name is Eric Durkee
 
 About Me
 
-🌱 Currently studying for my Microsoft AZ-900 certification
+🌱 Currently studying for my CompTIA CySA+ certification
 
 💾 Experienced with Python, C++, and SQL
 
