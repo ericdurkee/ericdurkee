@@ -19,8 +19,8 @@ About Me
 Tech Stack
 
 - Languages: Python • C++ • JavaScript • SQL
-- Tools: Git • VS Code • Wireshark • Burp Suite • VirtualBox
-- OS: Linux (Ubuntu, Kali) • Windows
+- Tools: Git • VS Code • Wireshark • VirtualBox
+- OS: Linux (Ubuntu) • Windows
 
 Current Goals
 
