@@ -1,20 +1,19 @@
 Hello, my name is Eric Durkee
 
-🎓 I am a cybersecurity Student at BYU–Idaho
-💻 Programming Minor | Comptia Security + certified | Passionate about network security, Linux systems, and databases
-🔐 Exploring the intersection of cloud security and ethical hacking
+I am a cybersecurity Student at BYU–Idaho | Programming Minor | Comptia Security + certified | Passionate about network security, Linux systems, and databases
+Exploring the intersection of cloud security and ethical hacking
 
 About Me
 
-🌱 Currently studying for my CompTIA CySA+ certification
+Currently studying for my CompTIA CySA+ certification
 
-💾 Experienced with Python, C++, and SQL
+Experienced with Python, C++, and SQL
 
-🐧 Comfortable working in Linux environments
+Comfortable working in Linux environments
 
-☁️ Interested in cloud architecture and cyber defense strategies
+Interested in cloud architecture and cyber defense strategies
 
-🧠 Always learning something new in cybersecurity and automation
+Always learning something new in cybersecurity and automation
 
 Tech Stack
 
@@ -24,14 +23,14 @@ Tech Stack
 
 Current Goals
 
-⚡ Strengthen my knowledge in penetration testing and network hardening
+Strengthen my knowledge in penetration testing and network hardening
 
-☁️ Learn AWS Cloud Security
+Learn AWS Cloud Security
 
-💼 Build a portfolio of cybersecurity labs and projects
+Build a portfolio of cybersecurity labs and projects
 ## Lets Connect!
 
--Here is my LinkedIn ---- https://www.linkedin.com/in/eric-durkee-bb9952263/
+My LinkedIn ---- https://www.linkedin.com/in/eric-durkee-bb9952263/
 
 <!---
 ericdurkee/ericdurkee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
