@@ -2,7 +2,7 @@
 
 Hello, my name is Eric Durkee
 
-I am a cybersecurity Student at BYU–Idaho | Programming Minor | Comptia Security + certified | Passionate about network security, Linux systems, and databases
+I am a cybersecurity Student at BYU–Idaho | Programming Minor | Comptia Security + certified | Passionate about network security, Linux systems, and databases.
 Exploring the intersection of cloud security and ethical hacking
 
 About Me
